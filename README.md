@@ -12,6 +12,9 @@ The objective was to build a production style serverless hosting platform that a
 
 ## Architecture 
 
+<img width="1536" height="1024" alt="Archtecture-diagram" src="https://github.com/user-attachments/assets/0a009a56-a449-4a19-9129-bcc98c741751" />
+
+
 
 ---
 
